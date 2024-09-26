@@ -5,6 +5,7 @@ I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate
 ## 🛠️ Tech
 
 Languages & Frameworks
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -13,7 +14,8 @@ Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 Hardware
-![XPS 13 Plus (2023)](https://img.shields.io/badge/dell-XPS%2013%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+
+![XPS 13 Plus (2023)](https://img.shields.io/badge/dell-XPS%2013-Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAtSiip&show_icons=true&theme=transparent)
