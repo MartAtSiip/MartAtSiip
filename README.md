@@ -16,6 +16,8 @@ Languages & Frameworks
 Hardware
 
 ![XPS 13 Plus (2023)](https://img.shields.io/badge/dell-XPS%2013%20Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ## 📊 GitHub Stats
 ![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAtSiip&show_icons=true&theme=transparent)
