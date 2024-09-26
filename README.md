@@ -12,9 +12,7 @@ I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## 📊 GitHub Stats
-
-![Total Commits](https://img.shields.io/github/commit-activity/y/MartAtSiip?style=for-the-badge)
-![Contributions](https://img.shields.io/github/contributors/MartAtSiip?style=for-the-badge)
+![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAtSiip&show_icons=true&theme=transparent)
 
 ## 🚀 What I’m working on
 - Building secure and efficient systems for IAM at Siip Group
