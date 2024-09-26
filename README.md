@@ -20,11 +20,6 @@ Hardware
 ## 📊 GitHub Stats
 ![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAtSiip&show_icons=true&theme=transparent)
 
-## 🚀 What I’m working on
-- Building secure and efficient systems for IAM at Siip Group
-- Improving my skills in Java and Spring Boot
-- Exploring new backend technologies
-
 ## 🔗 Connect with me
 - [GitHub](https://github.com/MartAtSiip)
 - [LinkedIn](https://www.linkedin.com/in/martvandermolen)
