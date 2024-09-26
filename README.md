@@ -4,7 +4,7 @@ I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate
 
 ## 🛠️ Tech
 
-Languages & Frameworks
+### Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -13,7 +13,7 @@ Languages & Frameworks
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-Hardware
+### Hardware
 
 ![XPS 13 Plus (2023)](https://img.shields.io/badge/dell-XPS%2013%20Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
