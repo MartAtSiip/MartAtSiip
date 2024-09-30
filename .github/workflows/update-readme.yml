@@ -1,0 +1,72 @@
+name: Update README with Work Duration and Age
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Calculate and update work duration and age
+        run: |
+          # Set your start work date and birth date
+          START_WORK_DATE="2023-07-23"
+          BIRTH_DATE="2005-06-06"
+
+          # Calculate the current date
+          TODAY=$(date +%Y-%m-%d)
+
+          # Calculate the difference in years, months, and days for work duration
+          YEARS_WORK=$(dateutils.ddiff "$START_WORK_DATE" "$TODAY" -f '%y')
+          MONTHS_WORK=$(dateutils.ddiff "$START_WORK_DATE" "$TODAY" -f '%m') % 12
+          DAYS_WORK=$(dateutils.ddiff "$START_WORK_DATE" "$TODAY" -f '%d')
+
+          # Calculate the difference in years for age
+          AGE=$(dateutils.ddiff "$BIRTH_DATE" "$TODAY" -f '%y')
+
+          # Prepare README content
+          README_CONTENT="# 👋 Hello! I'm Mart
+
+I'm a **Medior Developer** at **Siip Group**, currently **$AGE years old**, passionate about software development and backend systems.
+
+## 🛠️ Tech
+
+### Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### Hardware
+
+![XPS 13 Plus (2023)](https://img.shields.io/badge/dell-XPS%2013%20Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 💼 Work Experience
+
+I've been working at Siip Group since **July 23, 2023**, which is **$YEARS_WORK years, $MONTHS_WORK months, and $DAYS_WORK days** now!
+
+## 📊 GitHub Stats
+![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartAtSiip&show_icons=true&theme=transparent)
+
+## 🔗 Connect with me
+- [GitHub](https://github.com/MartAtSiip)
+- [LinkedIn](https://www.linkedin.com/in/martvandermolen)"
+
+          echo "$README_CONTENT" > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated work duration and age"
+          git push
