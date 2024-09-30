@@ -43,9 +43,9 @@ jobs:
             AGE=$((AGE - 1))
           fi
 
-          # Prepare README content
-          README_CONTENT="# 👋 Hello! I'm Mart
-
+          # Prepare README content with correct YAML syntax
+          README_CONTENT=$(cat <<EOF
+# 👋 Hello! I'm Mart
 I'm a **Medior Developer** at **Siip Group**, currently **$AGE years old**, passionate about software development and backend systems. I have experience working with various technologies and I’m always eager to learn more.
 
 ## 🛠️ Tech
@@ -73,7 +73,9 @@ I've been working at Siip Group since **July 23, 2023**, which is **$WORK_YEARS 
 
 ## 🔗 Connect with me
 - [GitHub](https://github.com/MartAtSiip)
-- [LinkedIn](https://www.linkedin.com/in/martvandermolen)"
+- [LinkedIn](https://www.linkedin.com/in/martvandermolen)
+EOF
+)
 
           # Update the README.md file
           echo "$README_CONTENT" > README.md
