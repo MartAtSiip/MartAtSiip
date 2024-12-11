@@ -14,15 +14,15 @@ I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ICAO](https://img.shields.io/badge/ICAO-003DA5?style=for-the-badge&logo=airplane&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%20/%20OpenIDConnect-113155?logo=authelia&logoColor=fff&style=for-the-badge)
+![Icao Badge](https://img.shields.io/badge/Icao-2e4372?logo=worldhealthorganization&logoColor=fff&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge)
 
 ### Hardware
 
-![XPS 13 Plus (2023)](https://img.shields.io/badge/apple%2013%20Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![XPS 13 Plus (2023)](https://img.shields.io/badge/Dell%20XPS%2013%20Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Iphone](https://img.shields.io/badge/iPhone%2015%20Pro%20-000000?style=for-the-badge&logo=apple&logoColor=white)
