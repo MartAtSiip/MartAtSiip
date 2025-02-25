@@ -23,7 +23,7 @@ I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate
 ### Hardware
 
 ![XPS 13 Plus (2023)](https://img.shields.io/badge/Dell%20XPS%2013%20Plus%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Iphone](https://img.shields.io/badge/iPhone%2015%20Pro%20-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ios](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
