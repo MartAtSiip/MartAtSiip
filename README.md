@@ -29,5 +29,4 @@ I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate
 ![Ios](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🔗 Connect with me
-- [GitHub](https://github.com/MartAtSiip)
 - [LinkedIn](https://www.linkedin.com/in/martvandermolen)
