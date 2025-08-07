@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mart
 
-I'm a **Medior Developer** at **Siip Group**, currently 19 years old, passionate about software development and backend systems. I have experience working with various technologies and I’m always eager to learn more.
+I'm a **Medior Developer** at **Siip Group**, currently 20 years old, passionate about software development and backend systems. I have experience working with various technologies and I’m always eager to learn more.
 
 ## 🛠️ Tech
 
